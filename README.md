@@ -97,7 +97,8 @@ print(plan)
 ```
 
 # OUTPUT:
-![Screenshot 2025-05-01 100856](https://github.com/user-attachments/assets/9304496b-0e6a-4d81-a3f9-d27d56bff1ef)
+![image](https://github.com/user-attachments/assets/c6fe5f1d-478a-4654-8936-3246d274c8b0)
+
 
 # RESULT:
 Thus the program to implement Classical Planning Algorithm has been executed successfully.
